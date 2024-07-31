@@ -2,7 +2,7 @@
 # (If you don’t know what a divisor is, it is a number that divides evenly into another number. 
 # For example, 13 is a divisor of 26 because 26 / 13 has no remainder.)
 
-num = int(input("Enter a number to it's divsors: "))
+num = int(input("Enter a number to see it's divsors: "))
 num_list = []
 
 for i in range(1, num + 1):
