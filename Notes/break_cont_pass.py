@@ -1,4 +1,4 @@
-# Loop Control Statements = chnage a loops execution from its normal sequence
+# Loop Control Statements = change a loops execution from its normal sequence
 
 # break = used to terminate the loop entirely
 # continue = skips to the next iteration of the loop
