@@ -31,6 +31,7 @@ while True:
         else:
             print('Insufficient funds')
     elif option == "exit":
+        print('Thank you for banking with us.')
         break
     else:
         print("Invalid option, please choose again.")

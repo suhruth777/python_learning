@@ -16,6 +16,7 @@ print("Currently playing movies:")
 print('-----------------------------')
 for movie in movies:
     print(movie)
+print('-----------------------------')
 
 while True:
     pick_movie = input('What movie do you want to see?: ')
